@@ -10,7 +10,7 @@
 *      Description:
 *
 *       1. Multiple ILI9341 TFT LCD Screen Interfaced with Arduino
-*       2. SD Card Integrated with Arduino
+*       2. SD Card Integrated with Arduino to load images to the screen
 *
 *       The author's acknowldege the contribution of the library developers included in this software for this software development.
 *
